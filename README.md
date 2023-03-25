@@ -5,5 +5,6 @@ How to Setup:
 -   install node.js
 -   go to client folder and run 'npm install'
 -   go to server folder and run 'npm install'
--   go to root folder and run 'npm run dev' to launch both
+-   go to project root folder and run 'npm install'
+-   go to project root folder and run 'npm run dev' to launch both
 -   navigate to server/db to view the database
